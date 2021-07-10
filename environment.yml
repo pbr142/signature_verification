@@ -1,0 +1,13 @@
+name: sigverify
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab >= 3.0
+  - matplotlib
+  - opencv
+  - pandas
+  - pip
+  - python
+  - scikit-learn
+  - tensorflow >= 2.0
